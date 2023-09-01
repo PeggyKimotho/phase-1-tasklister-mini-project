@@ -18,8 +18,8 @@ The following have been used on this project:
 <a href="https://peggykimotho.github.io/tasklister-app/"> View The Tasklister App</a>
 
 ## Screenshot Of The Tasklister App
+![Tasklister](https://github.com/PeggyKimotho/tasklister-app/assets/111040833/39c2a5b1-ec5d-4213-8da3-cb900c84ed1d)
 
-![Screenshot from 2023-08-25 14-00-21](https://github.com/PeggyKimotho/BMI-App/assets/111040833/770f63f0-2785-4c29-83ae-d0ff23f805d6)
 
 ## Contact Details
 You can contact me on email at peggykimotho@gmail.com
