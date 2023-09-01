@@ -10,9 +10,12 @@ document.addEventListener("DOMContentLoaded", () => {
       let li = document.createElement('li');
       li.textContent = inputBox.value;
       tasks.appendChild(li);
-      let span = document.createElement('span');
-      span.textContent = '   x';
-      li.appendChild(span); 
+
+      let deleteButton = document.createElement('button'); // Create a button element
+    deleteButton.textContent = 'x';
+    deleteButton.classList.add('delete-task'); // Add a class to the button element
+    li.appendChild(deleteButton);
+
       inputBox.value = "";
     
   }
